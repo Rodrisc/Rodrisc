@@ -1,4 +1,4 @@
-<h1 text="blue" align="center">Olá! Eu sou Rodrigo 😊</h1>
+<h1 text="blue" align="center">Olá! Seja bem vindo(a)! 😊</h1>
 
 <div align="center">
   <a href="https://github.com/Rodrisc">
