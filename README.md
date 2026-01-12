@@ -30,8 +30,6 @@
 
 
 
----
-
 <!-- ## 📌 Atualmente
 
 - Desenvolvendo e mantendo APIs
