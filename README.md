@@ -1,8 +1,6 @@
 ## 👋 Olá, eu sou o Rodrigo
 
-💻 Desenvolvedor com foco em backend  
-🚀 Curioso por tecnologia, integrações e como as coisas funcionam por baixo dos panos
-
+💻 Desenvolvedor com foco em backend.
 ---
 
 ## 🧠 Sobre mim
