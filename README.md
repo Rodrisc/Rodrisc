@@ -43,7 +43,7 @@
 
 ---
 
-## 🤝 Vamos trocar uma ideia?
+## 🤝 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rd-sc/)
 - 📧 Email: soaresrodrigo820@gmail.com
