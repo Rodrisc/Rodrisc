@@ -8,7 +8,7 @@
 - 🔭 Trabalho principalmente com desenvolvimento backend
 - 🌱 Estou sempre estudando boas práticas, arquitetura e performance
 - 💡 Gosto de criar soluções simples para problemas reais
-- 🐧 Usuário de Linux no dia a dia
+<!-- - 🐧 Usuário de Linux no dia a dia -->
 
 ---
 
@@ -48,4 +48,4 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/rd-sc/)
 - 📧 Email: soaresrodrigo820@gmail.com
 
-Sinta-se à vontade para explorar meus repositórios 🙂
+<!-- Sinta-se à vontade para explorar meus repositórios 🙂 -->
