@@ -39,7 +39,11 @@
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodrisc&show_icons=true&theme=dracula)
+
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rodrisc&show_icons=true&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrisc&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ---
 
