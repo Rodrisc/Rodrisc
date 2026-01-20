@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Rodrigo
 
-💻 Desenvolvedor com foco em backend.
+💻 Desenvolvedor full stack.
 ---
 
 ## 🧠 Sobre mim
