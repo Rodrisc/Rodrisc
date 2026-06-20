@@ -40,16 +40,23 @@
 ## 📊 Estatísticas
 
 
-<div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rodrisc&show_icons=true&theme=dracula"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrisc&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+  <a href="https://github.com/Rodrisc">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=Rodrisc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    />
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrisc&layout=compact&langs_count=8&theme=dracula"
+    />
+  </a>
 </div>
-
 ---
 
 ## 🤝 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rd-sc/)
-- 📧 Email: soaresrodrigo820@gmail.com
+- 📧 soaresrodrigo820@gmail.com
 
 <!-- Sinta-se à vontade para explorar meus repositórios 🙂 -->
